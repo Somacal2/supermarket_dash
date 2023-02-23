@@ -33,7 +33,7 @@ app.layout = html.Div(children=[
         dbc.Row([
             dbc.Col([
                 dbc.Card([
-                    html.H2("MIPEL", style={"font-family": "Voltaire", "font-size": "30px"}),
+                    html.H2("Somacal", style={"font-family": "Voltaire", "font-size": "30px"}),
                     html.Hr(),
 
                     html.H5("Cidades:", style={"font-size": "15px"}),
